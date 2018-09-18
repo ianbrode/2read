@@ -156,7 +156,7 @@ https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobs
 
 ----
 
-#Paid course
+# Paid course
 
 Vue2 полный курс
 https://www.udemy.com/vuejs-2-the-complete-guide/
