@@ -1,4 +1,4 @@
-# 2read
+# 2 Read about Vue
 
 «Строим десктопное приложение на Vue»
 https://dev.to/vuevixens/building-a-desktop-app-with-vue-vuido-490n
