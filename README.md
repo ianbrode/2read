@@ -153,3 +153,10 @@ https://medium.com/@krutie/universal-application-code-structure-in-nuxt-js-4cd01
 
 Ленивая загрузка изображений с директивами Vue.js и IntersectionObserver
 https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobserver-d0eb390cad9
+
+----
+
+#Paid course
+
+Vue2 полный курс
+https://www.udemy.com/vuejs-2-the-complete-guide/
