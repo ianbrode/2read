@@ -42,14 +42,11 @@ https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d
 «Как работает headless Chrome».
 https://habr.com/company/oleg-bunin/blog/421137/
 
----
-
 Quasar - это не просто набор компонентов
 https://medium.com/quasar-framework/quasar-is-not-just-a-bunch-of-components-282362d1ec65
 
 7 минут, 7 вопросов и ответов о фреймворке Quasar
 https://medium.com/quasar-framework/7-minutes-7-question-7-answers-6d98e333290d
-
 
 Прикажи Vue.js не тратить попусту время и рендерить быстрее!
 https://medium.com/@deadbeef404/tell-vue-js-to-stop-wasting-time-and-render-faster-7c3f7d2acaab
@@ -74,8 +71,6 @@ https://medium.com/@mosinve/universal-vue-js-apps-with-nuxt-5114cecb2592
 
 Туториал "все включено" для новичков во Vue.js - строим приложение-конвертер. 
 https://medium.com/@marko.zunic/all-inclusive-vue-js-beginner-tutorial-building-a-converter-app-db28fcf5583e
-
----
 
 Отладка Vue.js в VSCode и Chrome
 https://www.youtube.com/watch?v=FOf1gKKTR14
@@ -110,8 +105,6 @@ https://medium.com/@monazzz/the-tooltip-web-component-with-vue-and-vuex-3b588917
 NativeScript Vue: нативные мобильные приложения на джаваскрипт без сложностей 
 https://medium.com/coding-blocks/nativescript-vue-native-mobile-apps-in-javascript-without-the-hard-parts-6e7097a9667c
 https://medium.com/software-ateliers/asp-net-core-vue-template-with-custom-configuration-using-cli-3-0-8288e18ae80b
-
----
 
 Видео «Изучаем Vue.js #9 
 https://www.youtube.com/watch?v=q0UAfvjPGVA
@@ -149,5 +142,14 @@ https://itnext.io/our-journey-from-symfony-to-vue-part-1-31b72a2ae031
 VuePress внутри приложения на Laravel
 https://m.serversideup.net/vuepress-within-a-laravel-application-43092cc29f05
 
+Как создать SPA с помощью Vue.js
+https://itnext.io/how-to-build-spa-with-vue-js-b431255418c2
 
+Создание VueJS приложений с TypeScript
+https://dev.to/georgehanson/building-vuejs-applications-with-typescript-1j2n
 
+Структура кода универсального приложения в Nuxt.js
+https://medium.com/@krutie/universal-application-code-structure-in-nuxt-js-4cd014cc0baa
+
+Ленивая загрузка изображений с директивами Vue.js и IntersectionObserver
+https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobserver-d0eb390cad9
