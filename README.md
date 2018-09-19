@@ -1,5 +1,8 @@
 # 2 Read about Vue
 
+Vue.js — соображения и трюки
+https://medium.com/devschacht/vue-js-considerations-and-tricks-58ec768ac237
+
 «Строим десктопное приложение на Vue»
 https://dev.to/vuevixens/building-a-desktop-app-with-vue-vuido-490n
 
