@@ -157,6 +157,64 @@ https://medium.com/@krutie/universal-application-code-structure-in-nuxt-js-4cd01
 Ленивая загрузка изображений с директивами Vue.js и IntersectionObserver
 https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobserver-d0eb390cad9
 
+26 советов по экономии при работе со Vue
+http://michaelnthiessen.com/26-time-saving-tips/
+
+Создание современного приложения с использованием Nest.js, MongoDB и Vue.js
+https://scotch.io/tutorials/building-a-modern-app-using-nestjs-mongodb-and-vuejs
+
+Оптимизация производительности приложений на Vue.js: часть 3 - Ленивая загрузка модулей Vuex
+https://itnext.io/vue-js-app-performance-optimization-part-3-lazy-loading-vuex-modules-ed67cf555976
+
+VueJS 3.0: Революция?
+https://www.youtube.com/watch?v=3S5-10HefsA
+
+Создание SPA на Vue.js для продажи футболок
+https://snipcart.com/blog/building-a-vuejs-spa-to-sell-developer-tees
+
+Превращение статических SVG рисунков в интерактивные виджеты и инфографику с Vue.js
+https://code.tutsplus.com/tutorials/turn-your-static-svg-drawings-into-interactive-widgets-and-infographics-with-vuejs--cms-32728
+
+Производительность Vue (1 и 2 части)
+https://medium.com/vuetify/productivity-in-vue-part-1-de56e9c1d97d
+https://medium.com/vuetify/productivity-in-vue-part-2-1dc209062cae
+
+Vue оптимизационные паттерны и натипатерны (1 и 2 части)
+https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019
+https://itnext.io/vue-js-app-performance-optimization-part-2-lazy-loading-routes-and-vendor-bundle-anti-pattern-4a62236e09f9
+
+Новое в VueJS: ES Module Browser Build
+https://vuejsdevelopers.com/2019/02/04/vue-es-module-browser-build/
+
+7 проблем которых можно избежать если использовать Nuxt.js
+https://medium.com/vue-mastery/7-problems-you-can-avoid-by-using-nuxt-js-for-your-next-vue-app-963afd5047d3\
+
+Осваиваем computed свойства в Vue
+https://levelup.gitconnected.com/mastering-computed-properties-in-vuejs-82a60dfcbaef
+
+Как построить простой мониторинг соцсетей с nodejs, graphql и vue
+https://medium.freecodecamp.org/how-to-build-a-simple-social-media-monitor-with-nodejs-graphql-and-vue-55ffe4124ab5
+
+Интерактивная погодная карта на VueJS
+https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/
+
+10 советов от мастеров VueJS
+https://medium.com/vue-mastery/10-vue-js-pro-tips-from-vue-masters-2bf6131e7fe0
+
+Vuex это просто
+https://medium.com/@KucherDev/vuex-%D1%8D%D1%82%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-6807d9ad330d
+
+Как понять что Vue правильный для вас фреймворк
+https://www.sitepoint.com/vue-right-framework/
+
+8 худших вопросов на собеседовании по Vue.js
+https://habr.com/ru/company/constanta/blog/435700/
+
+Vue RFCs
+https://github.com/vuejs/rfcs
+
+Создание современного SPA при помощи Vue-cli
+https://manu.ninja/scaffolding-a-progressive-web-app-using-vue-cli-3
 ----
 
 # Paid course
