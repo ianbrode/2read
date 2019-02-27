@@ -215,6 +215,7 @@ https://github.com/vuejs/rfcs
 
 Создание современного SPA при помощи Vue-cli
 https://manu.ninja/scaffolding-a-progressive-web-app-using-vue-cli-3
+
 ----
 
 # Paid course
